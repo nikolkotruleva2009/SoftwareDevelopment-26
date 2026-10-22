@@ -18,6 +18,7 @@ internal class Program
 
         while (true)
         {
+
             Console.Clear();
 
             Console.WriteLine("TODO MANAGER");
